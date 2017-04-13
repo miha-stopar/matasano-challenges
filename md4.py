@@ -1,4 +1,6 @@
 # md4 implementation taken from https://gist.github.com/bonsaiviking/5644414
+# other functions are for Wang attack
+
 import struct
 import sys
 import math
