@@ -4,7 +4,7 @@ The first 46 challenges are in Ruby as I wanted to learn the language. For the B
 
 The code is not optimized in any way and is far from being cleaned. I left all sort of unused code in there which I used for debugging.
 
-Besides regular solutions to the challenges, I found the Bleichenbacher attack (challenges 47 and 48) so impressive that I implemented some more recent improvements as well (see below). Wang attack (challenge 55) to find MD4 collisions is also impressive, but the implementation is somehow tiresome.
+Besides regular solutions to the challenges, I found the Bleichenbacher attack (challenges 47 and 48) so impressive that I implemented some more recent improvements as well (see below). Wang attack [1] (challenge 55) to find MD4 collisions is also impressive, but the implementation is somehow tiresome.
 
 ## Bleichenbacher attack (challenge 48)
 
